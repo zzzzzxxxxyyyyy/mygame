@@ -1,0 +1,2753 @@
+fileFormatVersion: 2
+guid: 1830626089f065946b769d5b7bde9e48
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chen_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7364
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768fc1c296cb0df4b8374853e195d545
+      internalID: 1269397299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_1
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 7364
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ea2037ce70188439a00372989cc5a2
+      internalID: 677241680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_2
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 7364
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdac168629ff9564eb84d78f4573eaab
+      internalID: 1891772287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_3
+      rect:
+        serializedVersion: 2
+        x: 2811
+        y: 7364
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b4683fe9ed91743ad7b306cdd0960a
+      internalID: -2093445416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_4
+      rect:
+        serializedVersion: 2
+        x: 3748
+        y: 7364
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27743c18129ef249b2df1974325edf6
+      internalID: -1616941314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_5
+      rect:
+        serializedVersion: 2
+        x: 4685
+        y: 7364
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8242a8fc1ce7c64498c47059f16c17cc
+      internalID: -1452730861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_p1_act1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6838
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61099307a55e40f4d96affc836ebfacd
+      internalID: 1815104822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_p1_act2
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 6838
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e819b77ff44fd07419f7e70144019aa2
+      internalID: 594116576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_p1_act3
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 6838
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7624ccd8c9ddb0140961f3e8220b3baa
+      internalID: -1408824755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_p1_act4
+      rect:
+        serializedVersion: 2
+        x: 2811
+        y: 6838
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d906a4c0ca4871b48944bb9e6a6c3e2e
+      internalID: 1004843539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_p2_act1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6312
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6f45277c8db8843b3f336836f4ea90
+      internalID: -681738043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_p2_act2
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 6312
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2aa53c4b424d441b209bc2cf511fb4
+      internalID: 1369266271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_p2_act3
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 6312
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952ddf81af786ec4fb2b7b920d7e12ec
+      internalID: 600730508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_p2_act4
+      rect:
+        serializedVersion: 2
+        x: 2811
+        y: 6312
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3631e9d5d9e61c1418966cbd7b5eb518
+      internalID: -293968000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_p2_act5
+      rect:
+        serializedVersion: 2
+        x: 3748
+        y: 6312
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c710b3a311dee034cb74f3a2ef32cd80
+      internalID: 2096102079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_p2_act6
+      rect:
+        serializedVersion: 2
+        x: 4685
+        y: 6312
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06b7005223581e43b331888f6dd06f0
+      internalID: 1235557929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_p2_act7
+      rect:
+        serializedVersion: 2
+        x: 5622
+        y: 6312
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d38e851e294c6643890fb417b7898df
+      internalID: -632964138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_p2_act8
+      rect:
+        serializedVersion: 2
+        x: 6559
+        y: 6312
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91eb66af622db264b83f10d45eb430d4
+      internalID: -2106908167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_p3_act1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5786
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6bc64eb0f5eba42b4d936033e3c3a8
+      internalID: -1049255139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_p3_act2
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 5786
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58bcff13c9b1107468b278f485f9276b
+      internalID: 2094808043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_p3_act3
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 5786
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2d6cd2bdb023847a699f21355a2099
+      internalID: -828107830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_p3_act4
+      rect:
+        serializedVersion: 2
+        x: 2811
+        y: 5786
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f8870517ef2d64bba8867b16e9a482
+      internalID: 1613076163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_p3_act5
+      rect:
+        serializedVersion: 2
+        x: 3748
+        y: 5786
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2076e0470ac391845bc463827cb49323
+      internalID: 1526200668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_p3_act6
+      rect:
+        serializedVersion: 2
+        x: 4685
+        y: 5786
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd5823bef5993b43a1853c3f8b52022
+      internalID: -1341407665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_p3_act7
+      rect:
+        serializedVersion: 2
+        x: 5622
+        y: 5786
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6041aff1700956547b541f5df41527ec
+      internalID: -104038955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_p3_act8
+      rect:
+        serializedVersion: 2
+        x: 6559
+        y: 5786
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1242367bb5d8545b8b8ab08d5e0eef
+      internalID: -1287778187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_p3_act9
+      rect:
+        serializedVersion: 2
+        x: 7496
+        y: 5786
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787ed530741a1814db0e9b54686e9aa7
+      internalID: -909168997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_p3_act10
+      rect:
+        serializedVersion: 2
+        x: 8433
+        y: 5786
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723c588785ceb0d429a6340aef295b98
+      internalID: 830739375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_w1_act1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5260
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e68416c2d665b488c7f588602447b6
+      internalID: -1718740587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_w1_act2
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 5260
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9e32a0cf23c8040aae16c0d1ba2d1c
+      internalID: -828569190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_w1_act3
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 5260
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf62b0e80449024fa0726a9f583525d
+      internalID: -2132827617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_w1_act4
+      rect:
+        serializedVersion: 2
+        x: 2811
+        y: 5260
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e18cb2c62aa17448003881e921c0ad
+      internalID: 1090373531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_w1_act5
+      rect:
+        serializedVersion: 2
+        x: 3748
+        y: 5260
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393180630feaed04983dd7d67788cb45
+      internalID: -665579427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_w1_act6
+      rect:
+        serializedVersion: 2
+        x: 4685
+        y: 5260
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8309748b7258794ea7ec45c1292b560
+      internalID: -1598709970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_w1_act7
+      rect:
+        serializedVersion: 2
+        x: 5622
+        y: 5260
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95d2c865a830344e8b6dfc41d49325b
+      internalID: -245987423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_w1_act8
+      rect:
+        serializedVersion: 2
+        x: 6559
+        y: 5260
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e176d1c791d17439633def19289e23
+      internalID: 463400394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_w1_act9
+      rect:
+        serializedVersion: 2
+        x: 7496
+        y: 5260
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e364020662dec47bc120b3e2cae201
+      internalID: -59341753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_w1_act10
+      rect:
+        serializedVersion: 2
+        x: 8433
+        y: 5260
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259d6bbe018ac194fbfe61d6275e1b64
+      internalID: 188337179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_w2_act1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4734
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a77d55e9ae378498ea8c8692bd94f6
+      internalID: 699782448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_w2_act2
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 4734
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae70312fe4276f542865017996bcd290
+      internalID: -329397169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_w2_act3
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 4734
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4112a388f4399584eb38d2229c3092da
+      internalID: -387356044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_w2_act4
+      rect:
+        serializedVersion: 2
+        x: 2811
+        y: 4734
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1527c99a21c134a99711170fed4787
+      internalID: -1628660354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_w2_act5
+      rect:
+        serializedVersion: 2
+        x: 3748
+        y: 4734
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108c80159b4045147b389dd6ea553f4e
+      internalID: 460896985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_w2_act6
+      rect:
+        serializedVersion: 2
+        x: 4685
+        y: 4734
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f364c17097c1b924d91ef430f7e574a3
+      internalID: -1266005844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_w2_act7
+      rect:
+        serializedVersion: 2
+        x: 5622
+        y: 4734
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7719c524f09aef74fbcbf96b90cfeb8d
+      internalID: -1309353722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_w2_act8
+      rect:
+        serializedVersion: 2
+        x: 6559
+        y: 4734
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ca17eb0b390df43833e0aad6a77de2
+      internalID: -12671238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_w2_act9
+      rect:
+        serializedVersion: 2
+        x: 7496
+        y: 4734
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f157f5c697a04fa45a71d609ad969e41
+      internalID: -2023734975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_w2_act10
+      rect:
+        serializedVersion: 2
+        x: 8433
+        y: 4734
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b715dfb96991e243a5270c55a9747a7
+      internalID: -542541894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_w2_act11
+      rect:
+        serializedVersion: 2
+        x: 9370
+        y: 4734
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b12022d3d8cb36489dbe07ac1541268
+      internalID: -1361536959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_w2_act12
+      rect:
+        serializedVersion: 2
+        x: 10307
+        y: 4734
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3160405938554bf439f1abc9f08c6c83
+      internalID: 6519300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_w2_act13
+      rect:
+        serializedVersion: 2
+        x: 11244
+        y: 4734
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d1224ea5bb7fd47ba1e6cd2ed349d1
+      internalID: -1483542746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_w2_act14
+      rect:
+        serializedVersion: 2
+        x: 12181
+        y: 4734
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85fe4cf72e71d84b98e4e289257cd38
+      internalID: -2109377381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_w3_act1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4208
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1112dd44fecef2c4bbc8fcbcce732378
+      internalID: 1658462865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_w3_act2
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 4208
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aaf4c100725ddb4cb312618fd0e0ae1
+      internalID: -2141203162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_w3_act3
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 4208
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e0030e651a3fb4cbddbed3cab5a098
+      internalID: 2069217236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_w3_act4
+      rect:
+        serializedVersion: 2
+        x: 2811
+        y: 4208
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa89758a6ffe5424cbeff16a81ccddec
+      internalID: 1782293841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_w3_act5
+      rect:
+        serializedVersion: 2
+        x: 3748
+        y: 4208
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2643f5d985a444a8c401d3c5aa2146
+      internalID: -285728671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_w3_act6
+      rect:
+        serializedVersion: 2
+        x: 4685
+        y: 4208
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1cacef7d423cd45bff175d56eb083f
+      internalID: 1902778649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_w3_act7
+      rect:
+        serializedVersion: 2
+        x: 5622
+        y: 4208
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f233e4c70e5ca44b5ceb851e8a6cff
+      internalID: -1333032711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_w3_act8
+      rect:
+        serializedVersion: 2
+        x: 6559
+        y: 4208
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f073259c6182d748943d92d209ad772
+      internalID: 1978076156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_w3_act9
+      rect:
+        serializedVersion: 2
+        x: 7496
+        y: 4208
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835a9989235d39b429e0925fcf78fac8
+      internalID: -339736500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_w3_act10
+      rect:
+        serializedVersion: 2
+        x: 8433
+        y: 4208
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ebc343d58ec714e9aadf1130f7ab06
+      internalID: -2047514456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_w3_act11
+      rect:
+        serializedVersion: 2
+        x: 9370
+        y: 4208
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86bc72ee30165ef4d967dfef47b346de
+      internalID: -1037796386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_w3_act12
+      rect:
+        serializedVersion: 2
+        x: 10307
+        y: 4208
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf030cd66e5180f469d40c4b1712d08b
+      internalID: 1521416533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_w3_act13
+      rect:
+        serializedVersion: 2
+        x: 11244
+        y: 4208
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f615216886edd3244b24fe3308e87983
+      internalID: 235647167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_w3_act14
+      rect:
+        serializedVersion: 2
+        x: 12181
+        y: 4208
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563dae4d24135b64a855b476b2e7c24c
+      internalID: 1525867394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_walk1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3682
+        width: 937
+        height: 524
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5a4e7a04654834fb51c72a68e88e54
+      internalID: 218262213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_walk2
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 3682
+        width: 937
+        height: 524
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54dfc84caf63e144a81ac67ae09e8bb6
+      internalID: -272545857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_walk3
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 3682
+        width: 937
+        height: 519
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff03c0ec4a0fbc46b7e288c74f4ee19
+      internalID: 627293376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_walk4
+      rect:
+        serializedVersion: 2
+        x: 2811
+        y: 3682
+        width: 937
+        height: 498
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b2f364383779f428ae9d89c11d57a6
+      internalID: -1873092382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_walk5
+      rect:
+        serializedVersion: 2
+        x: 3748
+        y: 3682
+        width: 937
+        height: 496
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8463924541ee5445a5bbccd7a1db0e7
+      internalID: 1278253730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_walk6
+      rect:
+        serializedVersion: 2
+        x: 4685
+        y: 3682
+        width: 937
+        height: 495
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4df1fa5e5b2c154bb17dd0035611311
+      internalID: 1384022883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_walk7
+      rect:
+        serializedVersion: 2
+        x: 5622
+        y: 3682
+        width: 937
+        height: 497
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c944bcd1ed45441b902d9dd4eb5277
+      internalID: -302662224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_walk8
+      rect:
+        serializedVersion: 2
+        x: 6559
+        y: 3683
+        width: 937
+        height: 497
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f63c75a60e7df94d98cc23abfbc608f
+      internalID: 1040573919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_walk9
+      rect:
+        serializedVersion: 2
+        x: 7496
+        y: 3682
+        width: 937
+        height: 495
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf94f6853e5efe4d8c5042994e283f9
+      internalID: -1893936125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_walk10
+      rect:
+        serializedVersion: 2
+        x: 8434
+        y: 3682
+        width: 937
+        height: 497
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe53ce80a0bf814eb2a47787d476376
+      internalID: -833716357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_walk11
+      rect:
+        serializedVersion: 2
+        x: 9370
+        y: 3682
+        width: 937
+        height: 497
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3927e48a90456d438ecc84eccc03d88
+      internalID: 767169283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_walk12
+      rect:
+        serializedVersion: 2
+        x: 10307
+        y: 3682
+        width: 937
+        height: 498
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685842bb7c3a72b4484c9cd97c2e36dc
+      internalID: 2046193146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_walk13
+      rect:
+        serializedVersion: 2
+        x: 11244
+        y: 3682
+        width: 937
+        height: 499
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5d4007609d3234f9058f533ac8c9a0
+      internalID: -1183697911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_walk14
+      rect:
+        serializedVersion: 2
+        x: 12181
+        y: 3682
+        width: 937
+        height: 498
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a0f107bf7af9c4cb9b9de72a69a777
+      internalID: -1336009509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_spurt1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3167
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b52264b0d36d3c45a4aef5983707fa2
+      internalID: -1573354635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_spurt2
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 3156
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1e4f798a425674885ed6ef8181283d
+      internalID: -233626584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_run1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2630
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4648418ad29a83e4297258946e3ad3b0
+      internalID: -723906579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_run2
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 2630
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c381c120c0b33674db4704f10f7866ff
+      internalID: 851564777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_run3
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 2630
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d6aa26134853341a4311d7fea9c00f
+      internalID: -902168231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_run4
+      rect:
+        serializedVersion: 2
+        x: 2811
+        y: 2630
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38356e6c18654714993b377d97b1fd6c
+      internalID: -347576718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_run5
+      rect:
+        serializedVersion: 2
+        x: 3748
+        y: 2630
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62183767964bbc44877060106303936
+      internalID: 978205333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_run6
+      rect:
+        serializedVersion: 2
+        x: 4685
+        y: 2630
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073a889b8d60e9747b6300ffb51010bd
+      internalID: 1279313192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_run7
+      rect:
+        serializedVersion: 2
+        x: 5622
+        y: 2630
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fecb853b425af147988817db935cfea
+      internalID: 575170175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_run8
+      rect:
+        serializedVersion: 2
+        x: 6559
+        y: 2630
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73610ca6930c7494f9cc9f670cab0742
+      internalID: -151082991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_run9
+      rect:
+        serializedVersion: 2
+        x: 7496
+        y: 2630
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691cca5f710748a438648ccfa97e548e
+      internalID: -426929180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_run10
+      rect:
+        serializedVersion: 2
+        x: 8433
+        y: 2630
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02fb57010f7261448001bf8e79f31ae
+      internalID: -1968853704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_run11
+      rect:
+        serializedVersion: 2
+        x: 9370
+        y: 2630
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02cdb6ab1eb77064f82baa7e574ee72f
+      internalID: 1916609071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_run12
+      rect:
+        serializedVersion: 2
+        x: 10307
+        y: 2630
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34138880a065e7543b303e9deda7cc5a
+      internalID: -543723220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_run13
+      rect:
+        serializedVersion: 2
+        x: 11244
+        y: 2630
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498d64b89d4864e469a8e619ab5a3b6e
+      internalID: 641697753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_run14
+      rect:
+        serializedVersion: 2
+        x: 12181
+        y: 2630
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b42709f2f20d52489e30ea22efd90df
+      internalID: -2011732464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_jump1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2104
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003068f4f4f6a0844bba3b4af1edb1f9
+      internalID: -560163756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_jump2
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 2104
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3cf8bbb25ecf824c9ffbbe05e2f4a9d
+      internalID: -1604441751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_fall1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1578
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722e4600306aaec44b316456c30720e4
+      internalID: 1058750336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_fall2
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1578
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da905de6cb490294b97b5709f350d25a
+      internalID: 1085810269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_skill1_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1052
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168ab5c06c0a8c040932010510dbbe39
+      internalID: -820315854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_skill1_2
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1052
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fee27acb6d646a41837ff57d0612ccd
+      internalID: 1341793210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_skill1_3
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 1052
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca613ccfbe91aa24fa4d3fbc996dfb47
+      internalID: -31096083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_skill1_4
+      rect:
+        serializedVersion: 2
+        x: 2811
+        y: 1052
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95b77d1714e7274dafe9f239794fefe
+      internalID: 856347576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_skill1_5
+      rect:
+        serializedVersion: 2
+        x: 3748
+        y: 1052
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c3313fccc32364fa27cd321394fb3a
+      internalID: -884859969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_skill1_6
+      rect:
+        serializedVersion: 2
+        x: 4685
+        y: 1052
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ea9a074c3561e429fb0c6903efee62
+      internalID: -1733690442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_skill1_7
+      rect:
+        serializedVersion: 2
+        x: 5622
+        y: 1052
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e751370f62a34d24da5db7de8d9b3f62
+      internalID: 499978833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_skill2_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 526
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a499e6b680e8bf449027b380494209c
+      internalID: -810072838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_skill2_2
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 526
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e367cb16c19c75846b96385fc980a0b5
+      internalID: 477297384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_skill2_3
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 526
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3566437b418bbf248ae686248bf935a7
+      internalID: -356053093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_skill2_4
+      rect:
+        serializedVersion: 2
+        x: 2811
+        y: 526
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85079892ed6753d4f9341d865ffbe6d6
+      internalID: 868755016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_skill2_5
+      rect:
+        serializedVersion: 2
+        x: 3748
+        y: 526
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a817c9952d61ea945b4cc64e7c6a5f10
+      internalID: 911372966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_skill2_6
+      rect:
+        serializedVersion: 2
+        x: 4685
+        y: 526
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6754f66fbb976484b91d985808b9b373
+      internalID: -1571109550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_skill2_7
+      rect:
+        serializedVersion: 2
+        x: 5622
+        y: 526
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60ba094a75ef324795005e15df201e2
+      internalID: -128308289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_skill2_8
+      rect:
+        serializedVersion: 2
+        x: 6559
+        y: 526
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84aa63c2d7f9e446ab5e85b1aa288d5
+      internalID: -1051920738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_skill2_9
+      rect:
+        serializedVersion: 2
+        x: 7496
+        y: 526
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632cd068c2a91ca4eb600bab6c8f7034
+      internalID: -1324183806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_skill2_10
+      rect:
+        serializedVersion: 2
+        x: 8433
+        y: 526
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b212c0bee67c4e47a98879223eeb7c3
+      internalID: -517894570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_hit1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae60dc204a241b478fecaa78ce93ad8
+      internalID: -598893566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chen_hit2
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 0
+        width: 937
+        height: 526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25d64fc714778240bebc1adff956fd4
+      internalID: 1334354049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      chen_0: 1269397299
+      chen_1: 677241680
+      chen_100: -351409176
+      chen_122: 657563712
+      chen_123: -1591173050
+      chen_124: -258993705
+      chen_125: -1897670000
+      chen_126: 1294900869
+      chen_127: 657477476
+      chen_128: -1237160968
+      chen_129: -1268522456
+      chen_2: 1891772287
+      chen_3: -2093445416
+      chen_4: -1616941314
+      chen_5: -1452730861
+      chen_98: -292400219
+      chen_99: -1330910358
+      chen_fall1: 1058750336
+      chen_fall2: 1085810269
+      chen_hit1: -598893566
+      chen_hit2: 1334354049
+      chen_jump1: -560163756
+      chen_jump2: -1604441751
+      chen_p1_act1: 1815104822
+      chen_p1_act2: 594116576
+      chen_p1_act3: -1408824755
+      chen_p1_act4: 1004843539
+      chen_p2_act1: -681738043
+      chen_p2_act2: 1369266271
+      chen_p2_act3: 600730508
+      chen_p2_act4: -293968000
+      chen_p2_act5: 2096102079
+      chen_p2_act6: 1235557929
+      chen_p2_act7: -632964138
+      chen_p2_act8: -2106908167
+      chen_p3_act1: -1049255139
+      chen_p3_act10: 830739375
+      chen_p3_act2: 2094808043
+      chen_p3_act3: -828107830
+      chen_p3_act4: 1613076163
+      chen_p3_act5: 1526200668
+      chen_p3_act6: -1341407665
+      chen_p3_act7: -104038955
+      chen_p3_act8: -1287778187
+      chen_p3_act9: -909168997
+      chen_run1: -723906579
+      chen_run10: -1968853704
+      chen_run11: 1916609071
+      chen_run12: -543723220
+      chen_run13: 641697753
+      chen_run14: -2011732464
+      chen_run2: 851564777
+      chen_run3: -902168231
+      chen_run4: -347576718
+      chen_run5: 978205333
+      chen_run6: 1279313192
+      chen_run7: 575170175
+      chen_run8: -151082991
+      chen_run9: -426929180
+      chen_skill1_1: -820315854
+      chen_skill1_2: 1341793210
+      chen_skill1_3: -31096083
+      chen_skill1_4: 856347576
+      chen_skill1_5: -884859969
+      chen_skill1_6: -1733690442
+      chen_skill1_7: 499978833
+      chen_skill2_1: -810072838
+      chen_skill2_10: -517894570
+      chen_skill2_2: 477297384
+      chen_skill2_3: -356053093
+      chen_skill2_4: 868755016
+      chen_skill2_5: 911372966
+      chen_skill2_6: -1571109550
+      chen_skill2_7: -128308289
+      chen_skill2_8: -1051920738
+      chen_skill2_9: -1324183806
+      chen_spurt1: -1573354635
+      chen_spurt2: -233626584
+      chen_w1_act1: -1718740587
+      chen_w1_act10: 188337179
+      chen_w1_act2: -828569190
+      chen_w1_act3: -2132827617
+      chen_w1_act4: 1090373531
+      chen_w1_act5: -665579427
+      chen_w1_act6: -1598709970
+      chen_w1_act7: -245987423
+      chen_w1_act8: 463400394
+      chen_w1_act9: -59341753
+      chen_w2_act1: 699782448
+      chen_w2_act10: -542541894
+      chen_w2_act11: -1361536959
+      chen_w2_act12: 6519300
+      chen_w2_act13: -1483542746
+      chen_w2_act14: -2109377381
+      chen_w2_act2: -329397169
+      chen_w2_act3: -387356044
+      chen_w2_act4: -1628660354
+      chen_w2_act5: 460896985
+      chen_w2_act6: -1266005844
+      chen_w2_act7: -1309353722
+      chen_w2_act8: -12671238
+      chen_w2_act9: -2023734975
+      chen_w3_act1: 1658462865
+      chen_w3_act10: -2047514456
+      chen_w3_act11: -1037796386
+      chen_w3_act12: 1521416533
+      chen_w3_act13: 235647167
+      chen_w3_act14: 1525867394
+      chen_w3_act2: -2141203162
+      chen_w3_act3: 2069217236
+      chen_w3_act4: 1782293841
+      chen_w3_act5: -285728671
+      chen_w3_act6: 1902778649
+      chen_w3_act7: -1333032711
+      chen_w3_act8: 1978076156
+      chen_w3_act9: -339736500
+      chen_walk1: 218262213
+      chen_walk10: -833716357
+      chen_walk11: 767169283
+      chen_walk12: 2046193146
+      chen_walk13: -1183697911
+      chen_walk14: -1336009509
+      chen_walk2: -272545857
+      chen_walk3: 627293376
+      chen_walk4: -1873092382
+      chen_walk5: 1278253730
+      chen_walk6: 1384022883
+      chen_walk7: -302662224
+      chen_walk8: 1040573919
+      chen_walk9: -1893936125
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
